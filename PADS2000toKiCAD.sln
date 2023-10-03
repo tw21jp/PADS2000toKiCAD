@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.34031.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PADS2000toKiCAD", "PADS2000toKiCAD\PADS2000toKiCAD.csproj", "{4F773E50-8376-493F-BFEA-E7F5AE2FC348}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F773E50-8376-493F-BFEA-E7F5AE2FC348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F773E50-8376-493F-BFEA-E7F5AE2FC348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F773E50-8376-493F-BFEA-E7F5AE2FC348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F773E50-8376-493F-BFEA-E7F5AE2FC348}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EB8FBA2-2231-4945-A22E-EACA2E84F648}
+	EndGlobalSection
+EndGlobal
